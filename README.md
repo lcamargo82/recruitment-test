@@ -9,7 +9,7 @@ Application to search and contact developers through the github platform.
 **Require composer and node installed on the computer**
 
 After cloning the repository, run the commands in sequence
-
+and being inside the project folder
 ```
 composer install
 ```
@@ -18,7 +18,6 @@ composer install
 npm install && npm run dev
 ```
 
-Being inside the project folder
 ```
 cp .env.example .env
 ```
