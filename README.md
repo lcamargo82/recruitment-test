@@ -15,7 +15,11 @@ composer install
 ```
 
 ```
-npm install && npm run dev
+npm install
+```
+
+```
+npm run dev
 ```
 
 ```
@@ -26,6 +30,7 @@ cp .env.example .env
 php artisan key:generate
 ```
 
+To create the database file with sqlite:
 ```
 touch database/database.sqlite
 ```
