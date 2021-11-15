@@ -30,6 +30,13 @@ php artisan key:generate
 ```
 php artisan migrate --seed
 ```
+
+###To access the application
+
+**Login:** admin@admin.com
+
+**Password:** teste123
+
 ## License
 
 The application and Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
